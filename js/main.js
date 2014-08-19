@@ -1,0 +1,1 @@
+var target_date = new Date("Nov 3, 2020").getTime();
